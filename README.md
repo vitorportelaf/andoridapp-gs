@@ -1,3 +1,6 @@
+# Descrição:
+Projeto de um aplicativo Android com múltiplas telas (como login e menu), focado em demonstrar navegação, organização de interface e conceitos básicos de desenvolvimento mobile.
+
 # Imagens do app com os códigos:
 
 ![LoginScreen](https://github.com/vitorportelaf/andoridapp-gs/blob/8b5bd72e0e0c9d849caee5ca2d65a27b2e8e9193/LoginScreen.png)
